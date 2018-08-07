@@ -1,0 +1,4 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced? 
+It allowed me to see the added and deleted code which is amazing, didn't know that was possible
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Pros: you can save when you want, know when it is important to save, helps yout track your thought process, etc.
